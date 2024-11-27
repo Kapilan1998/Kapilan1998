@@ -21,6 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilan1998&show_icons=true&locale=en&layout=compact" alt="kapilan1998" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilan1998&show_icons=true&locale=en" alt="kapilan1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilan1998&" alt="kapilan1998" /></p>
