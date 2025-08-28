@@ -9,7 +9,7 @@
 
 <ul style="list-style-type:none; padding-left:0;">
   <li>👨‍💻 <b>Full-Stack Developer</b> with a strong focus on Backend Development</li>
-  <li>🗓️ <b>2+ years of experience</b> in the IT field</li>
+  <li>🗓️ <b>2.5+ years of experience</b> in the IT field</li>
   <li>⚡ <b>Technologies & Frameworks:</b> Spring Boot, React.js, Next.js, Python, Express.js, Laravel</li>
   <li>🛠️ <b>DevOps & Cloud Tools:</b> Docker, Jenkins, Kubernetes, Ansible, AWS, NGINX, Cloudflare</li>
   <li>🐧 <b>Proficient in Linux environments</b></li>
@@ -160,8 +160,6 @@
 </p>
 
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilan1998&show_icons=true&locale=en&layout=compact&token=${{ secrets.PRIVATE_CONTRIBUTION_TOKEN }}" alt="kapilan1998" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilan1998&show_icons=true&locale=en&layout=compact" alt="kapilan1998" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilan1998&" alt="kapilan1998" /></p>
