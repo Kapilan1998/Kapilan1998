@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriranjan kapilan</h1>
-<h3 align="center">Building Scalable Applications | Full-Stack Developer | DevOps, Cloud & Monitoring Enthusiast</h3>
+<h3 align="center">
+  Building Scalable Applications | Backend & DevOps Engineer | Cloud & Monitoring Enthusiast
+</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -8,16 +10,20 @@
 <div align="left" style="background-color:#f0f8ff; border-radius:10px; padding:20px; margin-bottom:20px;">
 
 <ul style="list-style-type:none; padding-left:0;">
-  <li>👨‍💻 <b>Full-Stack Developer</b> with a strong focus on Backend Development</li>
-  <li>🗓️ <b>2.5+ years of experience</b> in the IT field</li>
-  <li>⚡ <b>Technologies & Frameworks:</b> Spring Boot, React.js, Next.js, Python, Express.js, Laravel</li>
+  <li>👨‍💻 <b>Backend Engineer</b> with exposure to DevOps and cloud infrastructure</li>
+  <li>🗓️ <b>3 years of experience</b> in the IT field</li>
+  <li>⚡ <b>Technologies & Frameworks:</b> Spring Boot, React.js, Python, Node js,Flask, Laravel</li>
   <li>🛠️ <b>DevOps & Cloud Tools:</b> Docker, Jenkins, Kubernetes, Ansible, AWS, NGINX, Cloudflare</li>
   <li>🐧 <b>Proficient in Linux environments</b></li>
   <li>📊 <b>Monitoring Tools:</b> Checkmk, Prometheus, Grafana</li>
-  <li>☁️ <b>Cloud & Deployment:</b> Hetzner Cloud, Dokploy</li>
+  <li>☁️ <b>Cloud & Deployment:</b> AWS, Hetzner Cloud, Dokploy</li>
   <li>🚀 <b>Passionate about building scalable, maintainable, and efficient applications</b></li>
   <li>🔍 <b>Always exploring new technologies and improving skills</b></li>
   <li>📫 <b>How to reach me:</b> <a href="mailto:sriranjankapilan@gmail.com">sriranjankapilan@gmail.com</a></li>
+<li>
+  👁️ Explore my <a href="https://kapilan-personal-website.vercel.app/" target="_blank">Portfolio</a>
+</li>
+
 </ul>
 </div>
 
